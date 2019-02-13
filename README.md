@@ -1,5 +1,7 @@
 # planning-the-wandering-earth
 
+https://zhuanlan.zhihu.com/p/56382019/edit
+
 请阅读Wandering earth.ipynb
 
 ## 软件版本
@@ -10,8 +12,6 @@ Anaconda可以提供一个打包好的，和系统无关的统一编程平台。
 
 代码的实现简单直接（过了炫技的年龄）。没写太多注释（这文章可以当成注释）。尽量写的self-explanatory。
 
-希望你能勉强看懂
-
-TODO:more？
+希望你能勉强看懂。
 
 
