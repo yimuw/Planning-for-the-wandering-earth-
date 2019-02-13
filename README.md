@@ -1,6 +1,6 @@
 # planning-the-wandering-earth
 
-https://zhuanlan.zhihu.com/p/56382019/edit
+https://zhuanlan.zhihu.com/p/56382019
 
 请阅读Wandering earth.ipynb
 
